@@ -17,7 +17,6 @@
 2. Recompose : withState делать как WithReducer если их много, не делать лишних pure
 3. Не мешать global state и local state
 4. Хендлеры можно начинать  спрефикса handle...
-5. В пропсы не передавать анонимные функции
 
 # seo
 1. Мета-теги (title, description, keywords).
