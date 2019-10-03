@@ -16,6 +16,11 @@
 4. Шрифты грузить в первую очередь
 
 # react/redux
+1. Requestы в одном месте - есть смысл, если они global state.
+2. Recompose : withState делать как WithReducer если их много, не делать лишних pure
+3. Не мешать global state и local state
+4. Хендлеры можно начинать  спрефикса handle...
+5. В пропсы не передавать анонимные функции
 
 # seo
 
