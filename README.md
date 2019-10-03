@@ -16,6 +16,9 @@
 4. Шрифты грузить в первую очередь
 
 # react/redux
+1. Requestы в одном месте - есть смысл, если они global state.
+2. Recompose : withState делать как WithReducer если их много, не делать лишних pure
+
 
 # seo
 
