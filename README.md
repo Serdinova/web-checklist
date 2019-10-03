@@ -22,7 +22,6 @@
 1. Мета-теги (title, description, keywords).
 2. alt и title на img.
 3. robots.txt: добавлять host и site-map
-4. sitemap.xml
 
 # css-style
 1. line-height 150% => 1.5
